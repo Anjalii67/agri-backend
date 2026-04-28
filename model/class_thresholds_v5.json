@@ -1,0 +1,16 @@
+{
+  "Corn_common_rust": 0.5,
+  "Corn_gray_leaf_spot": 0.5,
+  "Corn_healthy": 0.5,
+  "Corn_northern_leaf_blight": 0.5,
+  "Tomato_bacterial_spot": 0.5,
+  "Tomato_early_blight": 0.5,
+  "Tomato_healthy": 0.5,
+  "Tomato_late_blight": 0.5,
+  "Tomato_leaf_mold": 0.5,
+  "Tomato_mosaic_virus": 0.65,
+  "Tomato_septoria_leaf_spot": 0.5,
+  "Tomato_spider_mites": 0.5,
+  "Tomato_target_spot": 0.55,
+  "Tomato_yellow_leaf_curl_virus": 0.5
+}

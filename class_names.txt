@@ -1,0 +1,14 @@
+Corn_common_rust
+Corn_gray_leaf_spot
+Corn_healthy
+Corn_northern_leaf_blight
+Tomato_bacterial_spot
+Tomato_early_blight
+Tomato_healthy
+Tomato_late_blight
+Tomato_leaf_mold
+Tomato_mosaic_virus
+Tomato_septoria_leaf_spot
+Tomato_spider_mites
+Tomato_target_spot
+Tomato_yellow_leaf_curl_virus
