@@ -6,7 +6,7 @@
 
 ### AI-Powered Crop Disease Detection using MobilePlantViT
 
-Real-time plant disease detection for **Tomato** and **Corn** crops using **Deep Learning**, **Flutter**, and **Flask**.
+AI-powered crop disease detection application using MobilePlantViT with a Flutter frontend and Flask backend.
 
 <br>
 
